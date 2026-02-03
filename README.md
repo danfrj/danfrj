@@ -1,16 +1,22 @@
-## Hi there 👋
+# Daniel Ferreira
 
-<!--
-**danfrj/danfrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+💻 Desenvolvedor Back-end em formação  
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou estudante de Sistemas de Informação com foco em desenvolvimento back-end.
+Tenho interesse em APIs REST, regras de negócio e sistemas bem estruturados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+- Java
+- Spring Boot
+- REST API
+- MySQL
+- Git & GitHub
+
+## Objetivo
+Atuar como desenvolvedor back-end, aplicando boas práticas de código
+e evoluindo constantemente na área de tecnologia.
+
+## Projetos
+🚧 Em desenvolvimento – em breve projetos práticos de back-end.
